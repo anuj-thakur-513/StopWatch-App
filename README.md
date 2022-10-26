@@ -1,4 +1,4 @@
-# Stopwatch - Android App with Jetpack Compose
+# Stopwatch App
 
 A simple stopwatch application with jetpack compose using foreground and bound services 
 
